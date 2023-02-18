@@ -96,7 +96,7 @@ Stability analysis of quantum systems: a Lyapunov criterion and an invariance pr
 
 `2021`
 
- Zhao Z, **Emzir MF**, Särkkä S. Deep state-space Gaussian processes. *Statistics and Computing* 31, 1-26
+Zhao Z, **Emzir MF**, Särkkä S. Deep state-space Gaussian processes. *Statistics and Computing* 31, 1-26
 
 `2020`
 **Emzir M**, Lasanen S, Purisha Z, Roininen L, Särkkä S.
@@ -162,7 +162,9 @@ Hilbert-space reduced-rank methods for deep Gaussian processes. *IEEE 29th Inter
 Lyapunov stability analysis for invariant states of quantum systems. *IEEE 56th Annual Conference on Decision and Control (CDC)*, 5505-5510
 
 ## Working Paper
+**Emzir MF**, Zhao Z , Särkkä S. Gaussian-Based Parametric Bijections For Automatic Projection Filters.
 
+Magalhães JAF, **Emzir MF**, Corona F. Approximations to the solution of the Kushner-Stratonovich equation for the stochastic chemostat.
 
 
 ## Project Grants
@@ -181,13 +183,20 @@ At King Fahd University of Petroleum and Minerals:
 At Aalto University
 - Basics Sensor Fusion (Co-teach with Simo Sarkka)
 
-## Supervised Student Works
+## Supervised Students
 
+- JA Fontenele Magalhães, PhD students, Chemical Engineering Dept, Aalto University. (Second Supervisor. Main Supervisor is Prof. Francesco Corona)
 - *CAT Diesel Generators Predictive Maintenance Using Machine Learning Algorithms Dense Neural Network and Long Short-Term Memory*, 2021-2022. Master of intelligent process control final project by Hussain Al Shaer and Dughaither Al-Shaibani.
 - *Fault Detection for Water Centrifugal Pumping System Using AI*, 2021-2022. Master of intelligent process control final project by Omran Al-Majid and Mohanned Shehri.
-## Projects
 
-### github
+
+## Other Administrative Roles
+
+* Final Project Coordinator (Capstone 2.0) in Control and Instrumentation Engineering, KFUPM.
+* Member of quality assurance committee in Control and Instrumentation Engineering, KFUPM. The committee responsibilities include ensuring that the department fulfill requirements needed for both ABET and national certification body.
+* Member of curriculum committee. The committee responsibilities include ensuring that all courses in the department are aligned with the university policies and requirements, and ensuring the correctness of all documentations related to it.ß
+
+## Repositories
 
 My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. 
 Examples include: 
@@ -197,7 +206,7 @@ Examples include:
 - [Reimmanian-Manifold-HMC](https://github.com/puat133/Reimmanian-Manifold-HMC):  a Python implementaion of Reimannian Manifold Hamiltonian Monte Carlo variant of the MCMC.
 - [DeepGalerkinSPDE](https://github.com/puat133/DeepGalerkinSPDE): contains codes from the paper: "Fast optimize-and-sample method for differentiable Galerkin approximations of multi-layered Gaussian process priors" (Paper presented at 25th International Conference on Information Fusion in Linköping, the Fusion Capital of Sweden.)
 
-### blog
+## Personal Blog
 
 I have my personal blog at [puat133.github.io](http://puat133.github.io) where I normally discuss various topics of interest related to my research and teaching. 
 
