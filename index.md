@@ -27,10 +27,6 @@ __King Fahd University of Petroleum and Minerals__ Assistant Professor at Contro
 > I have taught courses for both undergraduate and graduate level. I developed courses materials, including a modern set of presentation slides using Markdown and many repositories for codes related to the courses. I supervise several master and undergraduate final projects. I also actively conduct research in the field of state-estimation and filtering, non-linear control, quantum system and control design.
 
 
-
-
-
-
 `2018-2021` 
 __Aalto University__ Postdoctoral Researcher.
 > I have been involved in a variety of research initiatives over this career. The subject of research was applied statistics, with a particular emphasis on deep Gaussian processes and advanced mathematical modeling. I established generic spatio-temporal statistics mathematical approaches. The majority of the simulations are written in Python using Jax and Numba/CuPY (including costumed CUDA kernels).
@@ -58,6 +54,8 @@ __Australian National University__ Postdoctoral Researcher.
 * Functional Analysis
 * Advanced Linear algebra
 * Calculus
+
+
 ## Education
 
 `2014-17`
@@ -78,6 +76,7 @@ __Bandung Institute of Technology__ BSc Engineering Physics (_First class honour
 * Probabilistic Machine Learning
 * Gaussian Process
 * Nonlinear Control
+
 
 ## Publications
 
@@ -175,36 +174,54 @@ __Automatic Projection Filter__. Early Career Grant, King Fahd University of Pet
 
 ## Courses Taught
 
-At King Fahd University of Petroleum and Minerals:
-- Numerical Methods (Undergraduate)
-- Path-Planning and Navigation for Mobile Robots (Undergraduate and Graduate)
-- Soft Computing Techniques for System Identification (Graduate)
+`KFUPM`
 
-At Aalto University
-- Basics Sensor Fusion (Co-teach with Simo Sarkka)
+Numerical Methods (Undergraduate)
+
+Path-Planning and Navigation for Mobile Robots (Undergraduate and Graduate)
+
+Soft Computing Techniques for System Identification (Graduate)
+
+`Aalto`
+
+Basics Sensor Fusion (Co-teach with Simo Sarkka)
 
 ## Supervised Students
 
-- JA Fontenele Magalhães, PhD students, Chemical Engineering Dept, Aalto University. (Second Supervisor. Main Supervisor is Prof. Francesco Corona)
-- *CAT Diesel Generators Predictive Maintenance Using Machine Learning Algorithms Dense Neural Network and Long Short-Term Memory*, 2021-2022. Master of intelligent process control final project by Hussain Al Shaer and Dughaither Al-Shaibani.
-- *Fault Detection for Water Centrifugal Pumping System Using AI*, 2021-2022. Master of intelligent process control final project by Omran Al-Majid and Mohanned Shehri.
+`2021-`
+
+JA Fontenele Magalhães, PhD students, Chemical Engineering Dept, Aalto University. (Second Supervisor. Main Supervisor is Prof. Francesco Corona)
+
+`2021-2022`
+
+Hussain Al Shaer and Dughaither Al-Shaibani. Final project title *CAT Diesel Generators Predictive Maintenance Using Machine Learning Algorithms Dense Neural Network and Long Short-Term Memory*, 2021-2022. Master of intelligent process control, KFUPM.
+
+Omran Al-Majid and Mohanned Shehri. *Fault Detection for Water Centrifugal Pumping System Using AI*, 2021-2022. Master of intelligent process control, KFUPM.
 
 
 ## Other Administrative Roles
 
-* Final Project Coordinator (Capstone 2.0) in Control and Instrumentation Engineering, KFUPM.
-* Member of quality assurance committee in Control and Instrumentation Engineering, KFUPM. The committee responsibilities include ensuring that the department fulfill requirements needed for both ABET and national certification body.
-* Member of curriculum committee. The committee responsibilities include ensuring that all courses in the department are aligned with the university policies and requirements, and ensuring the correctness of all documentations related to it.ß
+Final Project Coordinator (Capstone 2.0) in Control and Instrumentation Engineering, KFUPM.
+
+Member of quality assurance committee in Control and Instrumentation Engineering, KFUPM. The committee responsibilities include ensuring that the department fulfill requirements needed for both ABET and national certification body.
+
+Member of curriculum committee. The committee responsibilities include ensuring that all courses in the department are aligned with the university policies and requirements, and ensuring the correctness of all documentations related to it.ß
+
 
 ## Repositories
 
 My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. 
 Examples include: 
-- [RigidBody](https://github.com/CIE-KFUPM/Rigid_Body): a companion code for path-planning and navigation for mobile robot. It contains a simple python package contains basic rigid body formalism, like rotations, homogeneous transformations, kinematics as well as some plotting and ode solver functionalities.
-- [DiddyBorg](https://github.com/puat133/DiddyBorg_Sensor_Fusion): codes for sensor fusion algorithm developed for a DiddyBorg robot. This code serves as guide for course ELEC-E8740 Basics Sensor Fusion, 2019 at Aalto University.
-- [Sparse-Grid-Autodiff-Projection-Filters](https://github.com/puat133/Sparse-Grid-Autodiff-Projection-Filters) a companion code for paper [Multidimensional projection filters via automatic differentiation and sparse-grid integration](https://doi.org/10.1016/j.sigpro.2022.108832)
-- [Reimmanian-Manifold-HMC](https://github.com/puat133/Reimmanian-Manifold-HMC):  a Python implementaion of Reimannian Manifold Hamiltonian Monte Carlo variant of the MCMC.
-- [DeepGalerkinSPDE](https://github.com/puat133/DeepGalerkinSPDE): contains codes from the paper: "Fast optimize-and-sample method for differentiable Galerkin approximations of multi-layered Gaussian process priors" (Paper presented at 25th International Conference on Information Fusion in Linköping, the Fusion Capital of Sweden.)
+
+[RigidBody](https://github.com/CIE-KFUPM/Rigid_Body): a companion code for path-planning and navigation for mobile robot. It contains a simple python package contains basic rigid body formalism, like rotations, homogeneous transformations, kinematics as well as some plotting and ode solver functionalities.
+
+[DiddyBorg](https://github.com/puat133/DiddyBorg_Sensor_Fusion): codes for sensor fusion algorithm developed for a DiddyBorg robot. This code serves as guide for course ELEC-E8740 Basics Sensor Fusion, 2019 at Aalto University.
+
+[Sparse-Grid-Autodiff-Projection-Filters](https://github.com/puat133/Sparse-Grid-Autodiff-Projection-Filters) a companion code for paper [Multidimensional projection filters via automatic differentiation and sparse-grid integration](https://doi.org/10.1016/j.sigpro.2022.108832)
+
+[Reimmanian-Manifold-HMC](https://github.com/puat133/Reimmanian-Manifold-HMC):  a Python implementaion of Reimannian Manifold Hamiltonian Monte Carlo variant of the MCMC.
+
+[DeepGalerkinSPDE](https://github.com/puat133/DeepGalerkinSPDE): contains codes from the paper: "Fast optimize-and-sample method for differentiable Galerkin approximations of multi-layered Gaussian process priors" (Paper presented at 25th International Conference on Information Fusion in Linköping, the Fusion Capital of Sweden.)
 
 ## Personal Blog
 
