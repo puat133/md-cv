@@ -35,6 +35,17 @@ __Aalto University__ Postdoctoral Researcher.
 __Australian National University__ Postdoctoral Researcher.
 > I conducted research in the field of quantum control theory throughout this phase of my career, focusing on systems theory methods to modeling and robust design of quantum information processing devices.
 
+## Education
+
+`2014-17`
+__University of New South Wales__ Electrical Engineering PhD (supervisors: Ian R. Petersen and Matthew J. Woolley). My Ph.D thesis was titled _Topics on filtering and coherent control of nonlinear quantum systems_ and is available through the [UNSWORK archieve](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:51756/SOURCE02?view=true).
+
+`2010-12`
+__King Fahd University of Petroleum and Minerals__ MSc System Engineering. My master thesis was titled _Nonlinear Output Feedback Control Design for Autonomous Underwater Vehicle: Port Controlled Hamiltonian Approach_ and is available through the [KFUPM eprint](http://eprints.kfupm.edu.sa/138719/1/Thesis.Final.3July.pdf).
+
+`2002-06`
+__Bandung Institute of Technology__ BSc Engineering Physics (_First class honours_)
+
 ## Technical skills
 
 * Python
@@ -56,16 +67,7 @@ __Australian National University__ Postdoctoral Researcher.
 * Calculus
 
 
-## Education
 
-`2014-17`
-__University of New South Wales__ Electrical Engineering PhD (supervisors: Ian R. Petersen and Matthew J. Woolley). My Ph.D thesis was titled _Topics on filtering and coherent control of nonlinear quantum systems_ and is available through the [UNSWORK archieve](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:51756/SOURCE02?view=true).
-
-`2010-12`
-__King Fahd University of Petroleum and Minerals__ MSc System Engineering. My master thesis was titled _Nonlinear Output Feedback Control Design for Autonomous Underwater Vehicle: Port Controlled Hamiltonian Approach_ and is available through the [KFUPM eprint](http://eprints.kfupm.edu.sa/138719/1/Thesis.Final.3July.pdf).
-
-`2002-06`
-__Bandung Institute of Technology__ BSc Engineering Physics (_First class honours_)
 
 
 
@@ -160,7 +162,7 @@ Hilbert-space reduced-rank methods for deep Gaussian processes. *IEEE 29th Inter
 **Emzir MF**, Woolley MJ, Petersen IR.
 Lyapunov stability analysis for invariant states of quantum systems. *IEEE 56th Annual Conference on Decision and Control (CDC)*, 5505-5510
 
-## Working Paper
+### Working Paper
 **Emzir MF**, Zhao Z , Särkkä S. Gaussian-Based Parametric Bijections For Automatic Projection Filters.
 
 Magalhães JAF, **Emzir MF**, Corona F. Approximations to the solution of the Kushner-Stratonovich equation for the stochastic chemostat.
@@ -176,15 +178,17 @@ __Automatic Projection Filter__. Early Career Grant, King Fahd University of Pet
 
 `KFUPM`
 
-Numerical Methods (Undergraduate)
+**Numerical Methods** (Undergraduate)
 
-Path-Planning and Navigation for Mobile Robots (Undergraduate and Graduate)
+**Path-Planning and Navigation for Mobile Robots** (Undergraduate)
 
-Soft Computing Techniques for System Identification (Graduate)
+**Path-Planning and Navigation for Mobile Robots** (Graduate)
+
+**Soft Computing Techniques for System Identification** (Graduate)
 
 `Aalto`
 
-Basics Sensor Fusion (Co-teach with Simo Sarkka)
+**Basics Sensor Fusion** (Co-teach with Simo Sarkka)
 
 ## Supervised Students
 
@@ -194,18 +198,18 @@ JA Fontenele Magalhães, PhD students, Chemical Engineering Dept, Aalto Universi
 
 `2021-2022`
 
-Hussain Al Shaer and Dughaither Al-Shaibani. Final project title *CAT Diesel Generators Predictive Maintenance Using Machine Learning Algorithms Dense Neural Network and Long Short-Term Memory*, 2021-2022. Master of intelligent process control, KFUPM.
+Hussain Al-Shaer and Dughaither Al-Shaibani. Final project title *CAT Diesel Generators Predictive Maintenance Using Machine Learning Algorithms Dense Neural Network and Long Short-Term Memory*, 2021-2022. Master of intelligent process control, KFUPM.
 
 Omran Al-Majid and Mohanned Shehri. *Fault Detection for Water Centrifugal Pumping System Using AI*, 2021-2022. Master of intelligent process control, KFUPM.
 
 
 ## Other Administrative Roles
 
-Final Project Coordinator (Capstone 2.0) in Control and Instrumentation Engineering, KFUPM.
+**Final Project Coordinator** (Capstone 2.0) in Control and Instrumentation Engineering (CIE), KFUPM. As a representative of CIE department, I am involved in coordinating and coaching several multidisciplinary final year projects at bachelor level in KFUPM.
 
-Member of quality assurance committee in Control and Instrumentation Engineering, KFUPM. The committee responsibilities include ensuring that the department fulfill requirements needed for both ABET and national certification body.
+Member of **quality assurance committee** in Control and Instrumentation Engineering, KFUPM. The committee responsibilities include ensuring that the department fulfill requirements needed for both ABET and national certification body.
 
-Member of curriculum committee. The committee responsibilities include ensuring that all courses in the department are aligned with the university policies and requirements, and ensuring the correctness of all documentations related to it.ß
+Member of **curriculum committee**  in Control and Instrumentation Engineering, KFUPM. The committee responsibilities include ensuring that all courses in the department are aligned with the university policies and requirements, and ensuring the correctness of all documentations related to it.
 
 
 ## Repositories
