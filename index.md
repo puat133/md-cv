@@ -1,113 +1,190 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Muhammad Emzir's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and Solutions Architect
+# Muhammad F. Emzir
+Electrical Engineering PhD and Assistant Professor
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:muhammad.emzir@gmail.com">muhammad.emzir@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/puat133">puat133</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-github"></i> <a href="http://puat133.github.io">puat133.github.io</a>
 </div>
 
 
 ## Currently
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+I'm an Assistant Professor at Control and Instrumentation Engineering Department of [King Fahd University of Petroleum and Minerals](http://www.kfupm.edu.sa). I teach numerous courses in both graduate and undergraduate level, as well as carrying out research in control and filtering. I enjoy teaching and interacting with students from different background.
+
 
 ## Employment
 
-`2020-` 
-__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
-> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+`2021-` 
+__King Fahd University of Petroleum and Minerals__ Assistant Professor at Control and Instrumentation Engineering.
 
-`2015-20` 
-__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+> I have taught courses for both undergraduate and graduate level. I developed courses materials, including a modern set of presentation slides using Markdown and many repositories for codes related to the courses. I supervise several master and undergraduate final projects. I also actively conduct research in the field of state-estimation and filtering, non-linear control, quantum system and control design.
+
+
+
+
+
+
+`2018-2021` 
+__Aalto University__ Postdoctoral Researcher.
+> I have been involved in a variety of research initiatives over this career. The subject of research was applied statistics, with a particular emphasis on deep Gaussian processes and advanced mathematical modeling. I established generic spatio-temporal statistics mathematical approaches. The majority of the simulations are written in Python using Jax and Numba/CuPY (including costumed CUDA kernels).
+
+`2017-2018` 
+__Australian National University__ Postdoctoral Researcher.
+> I conducted research in the field of quantum control theory throughout this phase of my career, focusing on systems theory methods to modeling and robust design of quantum information processing devices.
 
 ## Technical skills
 
 * Python
-* Javascript (incl. Typescript, React)
-* R
-* Go
-* AWS
+* MATLAB
+* LaTeX
+* Git and GitHub
 * UNIX
 * Cluster computing
-* Docker
-* Git and GitHub
-* HTML and CSS
 * Bash
-* Agile development
+* C++, C#
 
+## Mathematical-Related Skills
+* Information Differential Geometries
+* Probability Theory and Stochastic Processes
+* Stochastic Process 
+* Real and Complex Analysis
+* Functional Analysis
+* Advanced Linear algebra
+* Calculus
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`2014-17`
+__University of New South Wales__ Electrical Engineering PhD (supervisors: Ian R. Petersen and Matthew J. Woolley). My Ph.D thesis was titled _Topics on filtering and coherent control of nonlinear quantum systems_ and is available through the [UNSWORK archieve](http://unsworks.unsw.edu.au/fapi/datastream/unsworks:51756/SOURCE02?view=true).
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2010-12`
+__King Fahd University of Petroleum and Minerals__ MSc System Engineering. My master thesis was titled _Nonlinear Output Feedback Control Design for Autonomous Underwater Vehicle: Port Controlled Hamiltonian Approach_ and is available through the [KFUPM eprint](http://eprints.kfupm.edu.sa/138719/1/Thesis.Final.3July.pdf).
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2002-06`
+__Bandung Institute of Technology__ BSc Engineering Physics (_First class honours_)
 
-### Certifications
 
-`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
 
 ## Areas of expertise
 
-* Bioinformatics
-* Software development
-* Cloud engineering and automation
-* Single-page applications
-* Population genomics
-* Machine learning
-* Data visualisation
-* Variant calling
-* Illumina sequencing data
+* Stochastic Filtering
+* Quantum Control
+* Probabilistic Machine Learning
+* Gaussian Process
+* Nonlinear Control
 
 ## Publications
 
 ### Journal articles
-`2019`
-Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
+`2023`
+
+**Emzir MF**, Zhao Z , Särkkä S. Multidimensional projection filters via automatic differentiation and sparse-grid integration. *Signal Processing* 204, 108832
+
+`2022`
+
+Kirschenmann S, Bezak M, B Shudhashil, Brücken E, **Emzir M**, *et.al*. *Multispectral photon-counting for medical imaging and beam characterization—A project review*. 1039, 167043
+
+**Emzir MF**, Woolley MJ, Petersen IR.
+Stability analysis of quantum systems: a Lyapunov criterion and an invariance principle
+*Automatica*. 146, 110660
+
+`2021`
+
+ Zhao Z, **Emzir MF**, Särkkä S. Deep state-space Gaussian processes. *Statistics and Computing* 31, 1-26
+
+`2020`
+**Emzir M**, Lasanen S, Purisha Z, Roininen L, Särkkä S.
+Non-stationary multi-layered Gaussian priors for Bayesian inversion. *Inverse Problems* 37 (1), 015002
+
+
+Brücken E, Bharthuar S, **Emzir M**, *et.al*.
+Multispectral photon-counting for medical imaging and beam characterization. *Journal of Instrumentation* 15 (02), C02024
+
+**Emzir MF**, Woolley MJ, Petersen IR.
+Convergence to pure steady states of linear quantum systems. *Journal of Physics A: Mathematical and Theoretical* 53 (5), 055301
+
+Suuronen J, **Emzir M**, Lasanen S, Purisha Z, Särkkä S, Roininen L. Enhancing industrial X-ray tomography by data-centric statistical methods. *Data-Centric Engineering* 1, e10
+
+`2018`
+
+Yu Q, Dong D , Petersen IR, **Emzir MF**, Gao Q.
+Filtering for a Class of Quantum Systems With Classical Stochastic Disturbances. *IEEE Transactions on Control Systems Technology* 27, Issue 6, 2774 - 2780.
+
+**Emzir MF**, Woolley MJ, Petersen IR.
+On physical realizability of nonlinear quantum stochastic differential equations. *Automatica* 95, 254-265
+
 
 `2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6:e28590.
 
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
+**Emzir MF**, Woolley MJ, Petersen IR.
+A quantum extended Kalman filter. 
+*Journal of Physics A: Mathematical and Theoretical* 50 (22), 225301
 
 `2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
 
-Welch L, Brooksbank C, Schwartz R, Morgan SL, Gaeta B, Kilpatrick AM, Meitchen D, __Moore BL__ _et al._ Applying, Evaluating and Refining Bioinformatics Core Competencies. _PLoS Compututational Biology_, 12(5): e1004943.
+Woolley MJ, **Emzir MF**, Milburn GJ, *et. al*.
+Quartz-superconductor quantum electromechanical system.
+*Physical Review B* 93 (22), 224518
 
 `2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
 
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
+**Emzir MF**, Woolley MJ, Petersen IR.
+Quantum filtering for multiple diffusive and Poissonian measurements. *Journal of Physics A: Mathematical and Theoretical* 48 (38), 385302
 
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
+`2012`
 
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+Mahmoud MS, **Emzir MF**.
+Unknown-input estimator-based controller design of electric power-assisted steering system. *IET Control Theory & Applications* 6 (16), 2485-2492
 
-### Book chapters
+Mahmoud MS, **Emzir MF**.
+State estimation with asynchronous multi-rate multi-smart sensors. *Information Sciences* 196, 15-27
+
+### Conference Papers
+`2022`
+
+**Emzir MF**, Loppi NA, Zhao Z, Hassan SS, Särkkä S.
+Fast optimize-and-sample method for differentiable Galerkin approximations of multi-layered Gaussian process priors. *25th International Conference on Information Fusion (FUSION)*, 1-7
+
+`2019`
+
+**Emzir M**, Lasanen S, Purisha Z, Särkkä S.
+Hilbert-space reduced-rank methods for deep Gaussian processes. *IEEE 29th International Workshop on Machine Learning for Signal Processing*.
 
 `2017`
-__Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
 
-## Non-academic
+**Emzir MF**, Woolley MJ, Petersen IR.
+Lyapunov stability analysis for invariant states of quantum systems. *IEEE 56th Annual Conference on Decision and Control (CDC)*, 5505-5510
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+## Working Paper
 
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
+
+## Project Grants
+
+`2022-2023`
+__Automatic Projection Filter__. Early Career Grant, King Fahd University of Petroleum and Minerals.
+
+
+## Courses Taught
+
+At King Fahd University of Petroleum and Minerals:
+- Numerical Methods (Undergraduate)
+- Path-Planning and Navigation for Mobile Robots (Undergraduate and Graduate)
+- Soft Computing Techniques for System Identification (Graduate)
+
+At Aalto University
+- Basics Sensor Fusion (Co-teach with Simo Sarkka)
+
+## Supervised Student Works
+
+- *CAT Diesel Generators Predictive Maintenance Using Machine Learning Algorithms Dense Neural Network and Long Short-Term Memory*, 2021-2022. Master of intelligent process control final project by Hussain Al Shaer and Dughaither Al-Shaibani.
+- *Fault Detection for Water Centrifugal Pumping System Using AI*, 2021-2022. Master of intelligent process control final project by Omran Al-Majid and Mohanned Shehri.
 ## Projects
 
 ### github
@@ -118,36 +195,13 @@ My [personal github account](https://github.com/blmoore) hosts my hobby developm
 
 I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
 
-### EdinbR
 
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+UNSW Tuition Fee (PhD fees + enhanced stipend)
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
-
+KFUPM Research Assistant (MSc fees + stipend)
 
 ## Links
 
