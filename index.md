@@ -189,11 +189,17 @@ At Aalto University
 
 ### github
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. 
+Examples include: 
+- [RigidBody](https://github.com/CIE-KFUPM/Rigid_Body): a companion code for path-planning and navigation for mobile robot. It contains a simple python package contains basic rigid body formalism, like rotations, homogeneous transformations, kinematics as well as some plotting and ode solver functionalities.
+- [DiddyBorg](https://github.com/puat133/DiddyBorg_Sensor_Fusion): codes for sensor fusion algorithm developed for a DiddyBorg robot. This code serves as guide for course ELEC-E8740 Basics Sensor Fusion, 2019 at Aalto University.
+- [Sparse-Grid-Autodiff-Projection-Filters](https://github.com/puat133/Sparse-Grid-Autodiff-Projection-Filters) a companion code for paper [Multidimensional projection filters via automatic differentiation and sparse-grid integration](https://doi.org/10.1016/j.sigpro.2022.108832)
+- [Reimmanian-Manifold-HMC](https://github.com/puat133/Reimmanian-Manifold-HMC):  a Python implementaion of Reimannian Manifold Hamiltonian Monte Carlo variant of the MCMC.
+- [DeepGalerkinSPDE](https://github.com/puat133/DeepGalerkinSPDE): contains codes from the paper: "Fast optimize-and-sample method for differentiable Galerkin approximations of multi-layered Gaussian process priors" (Paper presented at 25th International Conference on Information Fusion in Linköping, the Fusion Capital of Sweden.)
 
 ### blog
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+I have my personal blog at [puat133.github.io](http://puat133.github.io) where I normally discuss various topics of interest related to my research and teaching. 
 
 
 
@@ -206,15 +212,11 @@ KFUPM Research Assistant (MSc fees + stipend)
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:muhammad.emzir@gmail.com">muhammad.emzir@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/puat133">puat133</a><br />
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=nfBRAHAAAAAJ">Google scholar</a>
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-1855-2124">ORCiD</a>
+
 
 ## References
 
