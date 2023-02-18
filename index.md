@@ -29,7 +29,7 @@ __King Fahd University of Petroleum and Minerals__ Assistant Professor at Contro
 
 `2018-2021` 
 __Aalto University__ Postdoctoral Researcher.
-> I have been involved in a variety of research initiatives over this career. The subject of research was applied statistics, with a particular emphasis on deep Gaussian processes and advanced mathematical modeling. I established generic spatio-temporal statistics mathematical approaches. The majority of the simulations are written in Python using Jax and Numba/CuPY (including costumed CUDA kernels).
+> I have been involved in a variety of research initiatives over this career. The research subject was applied statistics, with a particular emphasis on deep Gaussian processes and advanced mathematical modeling. I established generic spatiotemporal statistics mathematical approaches. Most simulations are written in Python using Jax and Numba/CuPY (including costumed CUDA kernels).
 
 `2017-2018` 
 __Australian National University__ Postdoctoral Researcher.
