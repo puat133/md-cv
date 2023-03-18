@@ -192,6 +192,9 @@ __Automatic Projection Filter__. Early Career Grant, King Fahd University of Pet
 
 ## Supervised Students
 
+`2023-`
+Mubarak Badamsi, Master Student, Control and Instrumentation Engineering Dept., King Fahd University of Petroleum and Minerals. (Main Supervisor)
+
 `2021-`
 
 JA Fontenele Magalhães, PhD students, Chemical Engineering Dept, Aalto University. (Second Supervisor. Main Supervisor is Prof. Francesco Corona)
@@ -202,6 +205,12 @@ Hussain Al-Shaer and Dughaither Al-Shaibani. Final project title *CAT Diesel Gen
 
 Omran Al-Majid and Mohanned Shehri. *Fault Detection for Water Centrifugal Pumping System Using AI*, 2021-2022. Master of intelligent process control, KFUPM.
 
+
+## Invited Talk
+
+`2022`
+
+Continuous Projection Filters, in a course titled *A computational introduction to stochastic differential equations* hosted by Zheng Zhao at Upsalla University Sweden. [Lecture Slide](https://github.com/spdes/computational-sde-intro-lecture/blob/main/lectures/seminar_lectures/emzir_continuous_filtering.pdf)
 
 ## Other Administrative Roles
 
