@@ -157,6 +157,9 @@ Fast optimize-and-sample method for differentiable Galerkin approximations of mu
 **Emzir M**, Lasanen S, Purisha Z, Särkkä S.
 Hilbert-space reduced-rank methods for deep Gaussian processes. *IEEE 29th International Workshop on Machine Learning for Signal Processing*.
 
+**Emzir MF**, Woolley MJ, Petersen IR.
+Convergence to Pure Steady States of Linear Quantum Systems. *18th European Control Conference (ECC)*
+
 `2017`
 
 **Emzir MF**, Woolley MJ, Petersen IR.
