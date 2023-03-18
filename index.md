@@ -170,6 +170,9 @@ Magalhães JAF, **Emzir MF**, Corona F. Approximations to the solution of the Ku
 
 ## Project Grants
 
+`2023-2024`
+__Hierarchical Real Time Stochastic Control Framework for Smart Highway Traffic Flow__. Interdisciplinary Research Center for Smart Mobility & Logistics, King Fahd University of Petroleum and Minerals.
+
 `2022-2023`
 __Automatic Projection Filter__. Early Career Grant, King Fahd University of Petroleum and Minerals.
 
