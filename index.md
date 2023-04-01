@@ -166,7 +166,7 @@ Convergence to Pure Steady States of Linear Quantum Systems. *18th European Cont
 Lyapunov stability analysis for invariant states of quantum systems. *IEEE 56th Annual Conference on Decision and Control (CDC)*, 5505-5510
 
 ### Working Paper
-**Emzir MF**, Zhao Z , Särkkä S. Gaussian-Based Parametric Bijections For Automatic Projection Filters.
+**Emzir MF**, Zhao Z , Särkkä S. Gaussian-Based Parametric Bijections For Automatic Projection Filters. Submitted to IEEE Transactions on Automatic Control
 
 Magalhães JAF, **Emzir MF**, Corona F. Approximations to the solution of the Kushner-Stratonovich equation for the stochastic chemostat.
 
@@ -200,6 +200,7 @@ __Automatic Projection Filter__. Early Career Grant, King Fahd University of Pet
 
 `2023-`
 Mubarak Badamsi, Master Student, Control and Instrumentation Engineering Dept., King Fahd University of Petroleum and Minerals. (Main Supervisor)
+Aded, Magad, PhD Student, Control and Instrumentation Engineering Dept., King Fahd University of Petroleum and Minerals. (Directed Research - Main Supervisor)
 
 `2021-`
 
