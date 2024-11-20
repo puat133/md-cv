@@ -200,6 +200,7 @@ __Automatic Projection Filter__. Early Career Grant, King Fahd University of Pet
 
 `2023-`
 Mubarak Badamsi, Master Student, Control and Instrumentation Engineering Dept., King Fahd University of Petroleum and Minerals. (Main Supervisor)
+
 Aded, Magad, PhD Student, Control and Instrumentation Engineering Dept., King Fahd University of Petroleum and Minerals. (Directed Research - Main Supervisor)
 
 `2021-`
